@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
+</div>
+
 
 <!--
 **Aksimka/Aksimka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
